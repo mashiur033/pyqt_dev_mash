@@ -15,6 +15,7 @@ import numpy as np
 
 # create class to import csv and create dataframe
 class Import_file():
+    #will add later stage
     pass
 
 # create class to analyze data
