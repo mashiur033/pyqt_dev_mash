@@ -20,6 +20,7 @@ class Import_file():
 
 # create class to analyze data
 class Analyze_data():
+    #need to define the stages of this analysis
     pass
 
 # class to create work package
